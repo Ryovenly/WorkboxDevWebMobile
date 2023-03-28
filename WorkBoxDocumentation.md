@@ -9,7 +9,7 @@ Les WorkBox permettent de gérer le cache quand il n’y a pas de connexion pour
 ## 2)	Méthodes de cache et utilisations possibles
 
 Les méthodes de cache fonctionnent avec un fichier service-worker.js et un fichier offline.html.
-L'utilisation est possible quand il n'y a pas de connexion internet et cela redirege dans une autre ressource prévu.
+L'utilisation est possible quand il n'y a pas de connexion internet et cela redirige dans une autre ressource prévu.
 
 
 ## 3)	Uses cases à intégrer dans le projet doctoliberal
@@ -24,6 +24,8 @@ garder en cache la liste de rendez-vous avec ses patients est très important si
 - navigateur nécessaire
 - compatibilité du device
 - capacités supplémentaires, etc...
+
+CF Fichier AccesPWA.jsx
 
 ## 2 ) Expliquer en quoi il serait intéressant de mettre en place une telle page
 
